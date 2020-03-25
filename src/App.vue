@@ -5,6 +5,7 @@
         <app-quote>
           <h2>{{ quoteTitle }}</h2>
           <p>A wonderful quote !!</p>
+          <p>I am a good boy</p>
         </app-quote>
       </div>
     </div>
